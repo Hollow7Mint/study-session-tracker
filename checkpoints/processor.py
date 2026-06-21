@@ -95,4 +95,4 @@ class StudyProcessor:
             if len(page) < batch_size:
                 break
             offset += batch_size
-# Last sync: 2026-06-21 16:29:23 UTC
+# Last sync: 2026-06-21 17:10:54 UTC
